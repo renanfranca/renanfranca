@@ -17,10 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [VSCode on Android &lpar;you don&#39;t need to install anything&rpar;](https://dev.to/renanfranca/vscode-on-android-you-dont-need-to-install-anything-3jn3)
 - [VSCode on Android &lpar;no install required&rpar;](https://renanfranca.github.io/2022/03/02/vscode-on-android.html)
-- [My road map to learn JHipster](https://dev.to/renanfranca/my-road-map-to-learn-jhipster-e35)
-- [Why did I use JHipster?](https://dev.to/renanfranca/why-did-i-use-jhipster-l7h)
+- [My road map to learn JHipster](https://renanfranca.github.io/2022/02/25/my-road-map-to-learn-jhipster.html)
+- [Why did I use JHipster?](https://renanfranca.github.io/2022/02/24/why-did-i-use-jhipster.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
