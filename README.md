@@ -17,10 +17,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My 15+ Reasons to use JHipster](https://renanfranca.github.io/2022/03/08/my-reasons-to-use-jhipster.html)
-- [VSCode on Android &lpar;you don’t need to install anything&rpar;](https://renanfranca.github.io/2022/03/02/vscode-on-android.html)
-- [My road map to learn JHipster](https://renanfranca.github.io/2022/02/25/my-road-map-to-learn-jhipster.html)
-- [Why did I use JHipster?](https://renanfranca.github.io/2022/02/24/why-did-i-use-jhipster.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
