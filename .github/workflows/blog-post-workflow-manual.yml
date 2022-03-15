@@ -10,4 +10,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: ""
+                feed_list: "https://renanfranca.github.io/fed.xml"
