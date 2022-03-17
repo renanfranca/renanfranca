@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a Github stunning profile 💫 &lpar;by dynamically listing your recent blog posts&rpar;](https://renanfranca.github.io/2022/03/17/create-a-github-stunning-profile.html)
 - [My 15+ Reasons to use JHipster](https://renanfranca.github.io/2022/03/08/my-reasons-to-use-jhipster.html)
 - [VSCode on Android &lpar;you don’t need to install anything&rpar;](https://renanfranca.github.io/2022/03/02/vscode-on-android.html)
 - [My road map to learn JHipster](https://renanfranca.github.io/2022/02/25/my-road-map-to-learn-jhipster.html)
