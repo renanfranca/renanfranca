@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I built a Baby Care web app using JHipster &lpar;open source from now on 🥰&rpar;](https://renanfranca.github.io/i-built-a-baby-care-web-app-using-jhipster.html)
 - [Why do I need to create a blog posts buffer? &lpar;stop blogging weekly&rpar;](https://renanfranca.github.io/2022/03/25/why-do-i-need-to-create-a-blog-posts-buffer.html)
 - [Create a Github stunning profile 💫 &lpar;by dynamically listing your recent blog posts&rpar;](https://renanfranca.github.io/2022/03/17/create-a-github-stunning-profile.html)
 - [My 15+ Reasons to use JHipster](https://renanfranca.github.io/2022/03/08/my-reasons-to-use-jhipster.html)
 - [VSCode on Android &lpar;you don’t need to install anything&rpar;](https://renanfranca.github.io/2022/03/02/vscode-on-android.html)
-- [My road map to learn JHipster](https://renanfranca.github.io/2022/02/25/my-road-map-to-learn-jhipster.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
