@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Deploy jhipster monolithic &lpar;angularjs + spring boot&rpar; at fly.io for FREE](https://renanfranca.github.io/deploy-jhipster-monolithic-angularjs-and-spring-boot-at-fly.io.html)
+- [Deploy jhipster monolithic &lpar;angular + spring boot&rpar; at fly.io for FREE](https://renanfranca.github.io/deploy-jhipster-monolithic-angularjs-and-spring-boot-at-fly.io.html)
 - [JHipster does not use lombok. Why?](https://renanfranca.github.io/jhipster-does-not-use-lombok-why.html)
 - [Publishing Microservices into Google Kubernetes Engine &lpar;GKE&rpar;](https://renanfranca.github.io/publishing-microservices-into-gke.html)
 - [I built a Baby Care web app using JHipster &lpar;open source from now on 🥰&rpar;](https://renanfranca.github.io/i-built-a-baby-care-web-app-using-jhipster.html)
