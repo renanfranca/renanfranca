@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn to debug JHipster generator, increase your chances to fix bounty issues](https://renanfranca.github.io/learn-debug-jhipster-generator-increase-your-chances-to-fix-bounty-issues.html)
+- [Learn to debug the JHipster generator, increase your chances to fix bounty issues](https://renanfranca.github.io/learn-debug-jhipster-generator-increase-your-chances-to-fix-bounty-issues.html)
 - [Deploy jhipster monolithic &lpar;angular + spring boot&rpar; at fly.io for FREE](https://renanfranca.github.io/deploy-jhipster-monolithic-angularjs-and-spring-boot-at-fly.io.html)
 - [JHipster does not use lombok. Why?](https://renanfranca.github.io/jhipster-does-not-use-lombok-why.html)
 - [Publishing Microservices into Google Kubernetes Engine &lpar;GKE&rpar;](https://renanfranca.github.io/publishing-microservices-into-gke.html)
