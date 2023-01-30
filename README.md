@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Jhipster**
 
-- 👯 I’m looking to collaborate on [Jhipster](https://github.com/jhipster/generator-jhipster)
+- 👯 I’m looking to collaborate on [Jhipster](https://github.com/jhipster/generator-jhipster) and [JHipster-Lite](https://www.jhipster.tech/jhipster-lite/)
 
 - 📝 I regularly write articles on [https://renanfranca.github.io/](https://renanfranca.github.io/)
 
