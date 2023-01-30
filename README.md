@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://renanfranca.github.io/](https://renanfranca.github.io/)
 
-- 💬 Ask me about **JHipster**
+- 💬 Ask me about **JHipster** and **JHipster-Lite**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
