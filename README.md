@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://renanfranca.github.io/accelerate-workflow-chatgpt-prompt.html)
 - [Your Guide to Implementing Vue Placeholder Loading](https://renanfranca.github.io/implementing-placeholder-loading-in-vue.html)
 - [Stepping into Vue - Enhancing the User Experience in JHipster Lite](https://renanfranca.github.io/stepping-into-vue-enhancing-the-user-experience-in-jhipster-lite.html)
 - [How did I earn money to fix an issue from an Open Source Software &lpar;OSS&rpar;?](https://renanfranca.github.io/how-did-i-earn-money-to-fix-an-issue-from-an-open-source-software.html)
 - [Learn to debug the JHipster generator, increase your chances to fix bounty issues](https://renanfranca.github.io/learn-debug-jhipster-generator-increase-your-chances-to-fix-bounty-issues.html)
-- [Deploy jhipster monolithic &lpar;angular + spring boot&rpar; at fly.io for FREE](https://renanfranca.github.io/deploy-jhipster-monolithic-angularjs-and-spring-boot-at-fly.io.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
