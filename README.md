@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/renan_afranca" target="blank"><img src="https://img.shields.io/twitter/follow/renan_afranca?logo=twitter&style=for-the-badge" alt="renan_afranca" /></a> </p>
 
-- 🌱 I’m currently learning **Jhipster**
+- 🌱 I’m currently learning **Jhipster-lite and Vuejs**
 
 - 👯 I’m looking to collaborate on [Jhipster](https://github.com/jhipster/generator-jhipster) and [JHipster-Lite](https://www.jhipster.tech/jhipster-lite/)
 
