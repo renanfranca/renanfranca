@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Renan Franca</h1>
-<h3 align="center">• Enjoy java☕ spring boot🍃 and OSS 💯
-• I love implementing automated tests😊
-• @jhipster lite contributor🤓 and lover💙 • Proud dad 🍼</h3>
+<h3 align="center">• <a href="https://www.jhipster.tech/team/">JHipster Core Team Member</a> 💙 
+• Enjoy java☕ spring boot🍃 and OSS 💯 
+• I love implementing automated tests 😊 
+• Proud dad 🍼</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renanfranca&label=Profile%20views&color=0e75b6&style=flat" alt="renanfranca" /> </p>
 
