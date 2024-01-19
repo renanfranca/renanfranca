@@ -21,7 +21,7 @@
 ## Open Source Contributions
 I have contributed to the following projects. You can view my pull request and merges on these links.
 * [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - Development platform to generate web applications and microservice architectures.
-* [jhipster-lite](https://github.com/jhipster/jhipster-lite/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - Development platform to help you to start your project, focusing on generating step by step only what you need
+* [jhipster-lite](https://github.com/jhipster/jhipster-lite/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture 💎
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
