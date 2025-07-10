@@ -25,7 +25,7 @@ I've worked on these projects and you can check out my pull requests and merges 
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey to the JHipster Core Team](https://renanfranca.github.io/reflecting-on-18-months-as-a-jhipster-core-team-member.html)
+- [My Journey to the JHipster Core Team](https://renanfranca.github.io/my-journey-to-the-jhipster-core-team.html)
 - [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://renanfranca.github.io/accelerate-workflow-chatgpt-prompt.html)
 - [Your Guide to Implementing Vue Placeholder Loading](https://renanfranca.github.io/implementing-placeholder-loading-in-vue.html)
 - [Stepping into Vue - Enhancing the User Experience in JHipster Lite](https://renanfranca.github.io/stepping-into-vue-enhancing-the-user-experience-in-jhipster-lite.html)
