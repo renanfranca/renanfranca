@@ -25,11 +25,11 @@ I've worked on these projects and you can check out my pull requests and merges 
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding a Loading Animation to JHipster Lite CLI](https://renanfranca.github.io/adding-loading-animation-to-jhipster-lite-cli.html)
 - [My Journey to the JHipster Core Team](https://renanfranca.github.io/my-journey-to-the-jhipster-core-team.html)
 - [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://renanfranca.github.io/accelerate-workflow-chatgpt-prompt.html)
 - [Your Guide to Implementing Vue Placeholder Loading](https://renanfranca.github.io/implementing-placeholder-loading-in-vue.html)
 - [Stepping into Vue - Enhancing the User Experience in JHipster Lite](https://renanfranca.github.io/stepping-into-vue-enhancing-the-user-experience-in-jhipster-lite.html)
-- [How did I earn money to fix an issue from an Open Source Software &lpar;OSS&rpar;?](https://renanfranca.github.io/how-did-i-earn-money-to-fix-an-issue-from-an-open-source-software.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
