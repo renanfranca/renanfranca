@@ -20,8 +20,8 @@
 
 ## Open Source Contributions
 I've worked on these projects and you can check out my pull requests and merges at these links.
-* [Seed4J](https://github.com/seed4j/seed4j/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - Seed4J🌱 is a modular code generator with clean architecture 💎
-* [Seed4J CLI](https://github.com/seed4j/seed4j-cli/pulls?q=is%3Apr+is%3Aclosed+author%3Arenanfranca) - Seed4J CLI >_ is a command-line interface tool that helps you apply and manage Seed4J modules. It provides a modular approach to application generation, allowing you to select specific modules and features for your project.
+* [Seed4J 🌱](https://github.com/seed4j/seed4j/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - A modular code generator with clean architecture 💎
+* [Seed4J CLI >_](https://github.com/seed4j/seed4j-cli/pulls?q=is%3Apr+is%3Aclosed+author%3Arenanfranca) - A command-line interface tool that helps you apply and manage Seed4J modules. It provides a modular approach to application generation, allowing you to select specific modules and features for your project.
 * [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - Development platform to generate web applications and microservice architectures.
   
 ### Blogs posts
