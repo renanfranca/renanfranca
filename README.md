@@ -10,17 +10,18 @@
 
 <p align="left"> <a href="https://twitter.com/renan_afranca" target="blank"><img src="https://img.shields.io/twitter/follow/renan_afranca?logo=twitter&style=for-the-badge" alt="renan_afranca" /></a> </p>
 
-- 🌱 I’m currently learning **Jhipster-lite and Vuejs**
+- 🌱 I’m currently learning **software craftsmanship**
 
-- 👯 I’m looking to collaborate on [Jhipster](https://github.com/jhipster/generator-jhipster) and [JHipster-Lite](https://www.jhipster.tech/jhipster-lite/)
+- 👯 I’m looking to collaborate on [Seed4J](https://seed4j.com) and [Seed4J CLI](https://github.com/seed4j/seed4j-cli)
 
 - 📝 I regularly write articles on [https://renanfranca.github.io/](https://renanfranca.github.io/)
 
-- 💬 Ask me about **JHipster** and **JHipster-Lite**
+- 💬 Ask me about **Seed4J** and **Seed4J CLI**
 
 ## Open Source Contributions
 I've worked on these projects and you can check out my pull requests and merges at these links.
-* [jhipster-lite](https://github.com/jhipster/jhipster-lite/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - JHipster Lite ⚡ is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step - using Hexagonal Architecture 💎
+* [Seed4J](https://github.com/seed4j/seed4j/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - Seed4J🌱 is a modular code generator with clean architecture 💎
+* [Seed4J CLI](https://github.com/seed4j/seed4j-cli/pulls?q=is%3Apr+is%3Aclosed+author%3Arenanfranca) - Seed4J CLI >_ is a command-line interface tool that helps you apply and manage Seed4J modules. It provides a modular approach to application generation, allowing you to select specific modules and features for your project.
 * [generator-jhipster](https://github.com/jhipster/generator-jhipster/pulls?q=is%3Apr+author%3Arenanfranca+is%3Amerged+) - Development platform to generate web applications and microservice architectures.
   
 ### Blogs posts
