@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanfranca" alt="renanfranca" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/renan_afranca" target="blank"><img src="https://img.shields.io/twitter/follow/renan_afranca?logo=twitter&style=for-the-badge" alt="renan_afranca" /></a> </p>
-
 - 🌱 I’m currently learning **software craftsmanship**
 
 - 👯 I’m looking to collaborate on [Seed4J](https://seed4j.com) and [Seed4J CLI](https://github.com/seed4j/seed4j-cli)
