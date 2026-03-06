@@ -24,11 +24,11 @@ I've worked on these projects and you can check out my pull requests and merges 
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tales of a Dev - An Alternative Reality](https://renanfranca.github.io/tales-of-a-dev-an-alternative-reality.html)
 - [Adding a Loading Animation to JHipster Lite CLI](https://renanfranca.github.io/adding-loading-animation-to-jhipster-lite-cli.html)
 - [My Journey to the JHipster Core Team](https://renanfranca.github.io/my-journey-to-the-jhipster-core-team.html)
 - [💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫](https://renanfranca.github.io/accelerate-workflow-chatgpt-prompt.html)
 - [Your Guide to Implementing Vue Placeholder Loading](https://renanfranca.github.io/implementing-placeholder-loading-in-vue.html)
-- [Stepping into Vue - Enhancing the User Experience in JHipster Lite](https://renanfranca.github.io/stepping-into-vue-enhancing-the-user-experience-in-jhipster-lite.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
