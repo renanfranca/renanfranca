@@ -24,11 +24,11 @@ I've worked on these projects and you can check out my pull requests and merges 
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When Plan Mode Was No Longer Enough](https://renanfranca.github.io/when-plan-mode-was-no-longer-enough.html)
 - [Intention in Portuguese, Code in English](https://renanfranca.github.io/intention-in-portuguese-code-in-english.html)
 - [Sharing Pieces of My AI Agent Workflow](https://renanfranca.github.io/sharing-pieces-of-my-ai-agent-workflow.html)
 - [Tales of a Dev - An Alternative Reality](https://renanfranca.github.io/tales-of-a-dev-an-alternative-reality.html)
 - [Adding a Loading Animation to JHipster Lite CLI](https://renanfranca.github.io/adding-loading-animation-to-jhipster-lite-cli.html)
-- [My Journey to the JHipster Core Team](https://renanfranca.github.io/my-journey-to-the-jhipster-core-team.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
