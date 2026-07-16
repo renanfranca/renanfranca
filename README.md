@@ -24,11 +24,11 @@ I've worked on these projects and you can check out my pull requests and merges 
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Had Already Built Three Agentic Loops Without Naming Them](https://renanfranca.github.io/i-had-already-built-three-agentic-loops.html)
 - [When I Entrusted TDD to an AI Agent](https://renanfranca.github.io/when-i-entrusted-tdd-to-an-ai-agent.html)
 - [For Me, TDD Is Therapy](https://renanfranca.github.io/for-me-tdd-is-therapy.html)
 - [When Plan Mode Was No Longer Enough](https://renanfranca.github.io/when-plan-mode-was-no-longer-enough.html)
 - [Intention in Portuguese, Code in English](https://renanfranca.github.io/intention-in-portuguese-code-in-english.html)
-- [Sharing Pieces of My AI Agent Workflow](https://renanfranca.github.io/sharing-pieces-of-my-ai-agent-workflow.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
