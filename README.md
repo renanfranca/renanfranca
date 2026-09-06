@@ -24,11 +24,11 @@ I've worked on these projects and you can check out my pull requests and merges 
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Six Codex Runs Taught Me About Tool Design](https://renanfranca.github.io/what-six-codex-runs-taught-me-about-tool-design.html)
 - [From an Empty Repository to a Java Kata, One Module at a Time](https://renanfranca.github.io/from-an-empty-repository-to-a-java-kata-one-module-at-a-time.html)
 - [When Skill Evolution Means Removing Instructions](https://renanfranca.github.io/when-skill-evolution-means-removing-instructions.html)
 - [I Had Already Built Three Agentic Loops Without Naming Them](https://renanfranca.github.io/i-had-already-built-three-agentic-loops.html)
 - [When I Entrusted TDD to an AI Agent](https://renanfranca.github.io/when-i-entrusted-tdd-to-an-ai-agent.html)
-- [For Me, TDD Is Therapy](https://renanfranca.github.io/for-me-tdd-is-therapy.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
