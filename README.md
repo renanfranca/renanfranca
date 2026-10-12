@@ -24,11 +24,11 @@ I've worked on these projects and you can check out my pull requests and merges 
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From Skills to Hooks: Testing Codex Hooks in Git Worktrees](https://renanfranca.github.io/from-skills-to-hooks-testing-codex-hooks-in-git-worktrees.html)
 - [Revisiting SiFuture with Kof](https://renanfranca.github.io/revisiting-sifuture-with-kof.html)
 - [Following Seed4J’s Main Branch with Seed4J CLI Experimental](https://renanfranca.github.io/following-seed4js-main-branch-with-seed4j-cli-experimental.html)
 - [How Seed4J Validates Compatibility](https://renanfranca.github.io/how-seed4j-validates-compatibility.html)
 - [What Changed When the Same Kata Needed a UI](https://renanfranca.github.io/what-changed-when-the-same-kata-needed-a-ui.html)
-- [What Six Codex Runs Taught Me About Tool Design](https://renanfranca.github.io/what-six-codex-runs-taught-me-about-tool-design.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
